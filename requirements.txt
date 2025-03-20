@@ -1,0 +1,4 @@
+pandas==2.2.3
+ffmpeg==1.4
+imageio-ffmpeg==0.6.0
+yt-dlp==2025.2.19
