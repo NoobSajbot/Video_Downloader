@@ -10,3 +10,9 @@ An example with 2 videos is provided.
 By default, the highest quality version of the file will be downloaded. This requires ffmpeg to be installed.
 In case of problems, set the variable quality_setting to a value different from 1.
 
+Disclaimer:
+This tool is intended for lawful use only. 
+Users are responsible for ensuring that their use of this tool complies with all 
+applicable laws and the terms of service of any platforms involved, including YouTube. 
+The author assumes no responsibility for any misuse of this tool.
+
